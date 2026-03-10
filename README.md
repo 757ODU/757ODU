@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @757ODU
-- 👀 I’m interested in Technological Systems
-- 🌱 I’m currently learning Industrial Technology, Applied Engineering, Energy Engineering 
-- 💞️ I’m looking to collaborate on CAD
+- 👀 I’m interested in Robotic manipulators 
+- 🌱 I’m currently learning Industrial Technology, Robotics Engineering, Energy Engineering, State Machines
+- 💞️ I’m looking to collaborate on Robotics and Autonomous Systems
 - 📫 How to reach me Message
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: ...
